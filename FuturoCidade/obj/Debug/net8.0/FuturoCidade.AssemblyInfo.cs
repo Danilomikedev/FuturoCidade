@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FuturoCidade")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e200756ec5acfab41a5bbd4cecbe213a93765533")]
 [assembly: System.Reflection.AssemblyProductAttribute("FuturoCidade")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FuturoCidade")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

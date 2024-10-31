@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DESKTOP\\Desktop\\documentos\\FuturoCidade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77F0F624-3356-44C2-96F2-9D176EF91F7F}|FuturoCidade\\FuturoCidade.csproj|c:\\users\\desktop\\desktop\\documentos\\futurocidade\\futurocidade\\seuprojeto.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{77F0F624-3356-44C2-96F2-9D176EF91F7F}|FuturoCidade\\FuturoCidade.csproj|solutionrelative:futurocidade\\seuprojeto.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F0F624-3356-44C2-96F2-9D176EF91F7F}|FuturoCidade\\FuturoCidade.csproj|c:\\users\\desktop\\desktop\\documentos\\futurocidade\\futurocidade\\futurocidade.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{77F0F624-3356-44C2-96F2-9D176EF91F7F}|FuturoCidade\\FuturoCidade.csproj|solutionrelative:futurocidade\\futurocidade.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeuProjeto.csproj",
+              "DocumentMoniker": "C:\\Users\\DESKTOP\\Desktop\\documentos\\FuturoCidade\\FuturoCidade\\SeuProjeto.csproj",
+              "RelativeDocumentMoniker": "FuturoCidade\\SeuProjeto.csproj",
+              "ToolTip": "C:\\Users\\DESKTOP\\Desktop\\documentos\\FuturoCidade\\FuturoCidade\\SeuProjeto.csproj",
+              "RelativeToolTip": "FuturoCidade\\SeuProjeto.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-31T23:50:58.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FuturoCidade",
+              "DocumentMoniker": "C:\\Users\\DESKTOP\\Desktop\\documentos\\FuturoCidade\\FuturoCidade\\FuturoCidade.csproj",
+              "RelativeDocumentMoniker": "FuturoCidade\\FuturoCidade.csproj",
+              "ToolTip": "C:\\Users\\DESKTOP\\Desktop\\documentos\\FuturoCidade\\FuturoCidade\\FuturoCidade.csproj",
+              "RelativeToolTip": "FuturoCidade\\FuturoCidade.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-31T23:49:31.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

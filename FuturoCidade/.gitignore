@@ -1,0 +1,15 @@
+# Ignorar o diretório .vs do Visual Studio
+.vs/
+# Ignorar arquivos temporários
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.cache
+*.pdb
+*.ipch
+*.aps
+*.ncb
+*.sdf
+*.opensdf
+*.vcxproj.user

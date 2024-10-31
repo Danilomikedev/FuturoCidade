@@ -1,0 +1,6 @@
+@FuturoCidade_HostAddress = http://localhost:5213
+
+GET {{FuturoCidade_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -17,9 +17,12 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Setup .NET
-        uses: actions/setup-dotnet@v1
+        uses: actions/setup-dotnet@v2  # Atualizado para v2
         with:
           dotnet-version: '8.0.x'
+
+      - name: Clean project
+        run: dotnet clean  # Passo para limpar o projeto
 
       - name: Restore dependencies
         run: dotnet restore
@@ -28,4 +31,4 @@ jobs:
         run: dotnet build --configuration Release
 
       - name: Run tests
-        run: dotnet test --configuration Release
+        run: dotnet test --configuration Release --no-restore --logger trx

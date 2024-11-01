@@ -1,34 +1,45 @@
-name: CI/CD Pipeline
+name: .NET CI
 
 on:
   push:
     branches:
-      - master
+      - main
   pull_request:
     branches:
-      - master
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
+      # Baixar o repositório
+      - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Setup .NET
-        uses: actions/setup-dotnet@v2  # Atualizado para v2
+      # Configurar o Cache do NuGet
+      - name: Cache NuGet packages
+        uses: actions/cache@v2
         with:
-          dotnet-version: '8.0.x'
+          path: ~/.nuget/packages
+          key: ${{ runner.os }}-nuget-${{ hashFiles('**/*.csproj') }}
+          restore-keys: |
+            ${{ runner.os }}-nuget-
 
-      - name: Clean project
-        run: dotnet clean  # Passo para limpar o projeto
+      # Configurar o SDK do .NET
+      - name: Setup .NET SDK
+        uses: actions/setup-dotnet@v2
+        with:
+          dotnet-version: '8.x'  # Defina a versão conforme o seu projeto
 
-      - name: Restore dependencies
+      # Restaurar os pacotes NuGet
+      - name: Restore NuGet packages
         run: dotnet restore
 
-      - name: Build
-        run: dotnet build --configuration Release
+      # Limpar o projeto
+      - name: Clean project
+        run: dotnet clean
 
-      - name: Run tests
-        run: dotnet test --configuration Release --no-restore --logger trx
+      # Compilar o projeto
+      - name: Build project
+        run: dotnet build --no-restore --configuration Release

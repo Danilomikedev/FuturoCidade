@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\DESKTOP\\Desktop\\documentos\\FuturoCidade\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{77F0F624-3356-44C2-96F2-9D176EF91F7F}|FuturoCidade\\FuturoCidade.csproj|c:\\users\\desktop\\desktop\\documentos\\futurocidade\\futurocidade\\models\\alerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F0F624-3356-44C2-96F2-9D176EF91F7F}|FuturoCidade\\FuturoCidade.csproj|solutionrelative:futurocidade\\models\\alerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{77F0F624-3356-44C2-96F2-9D176EF91F7F}|FuturoCidade\\FuturoCidade.csproj|c:\\users\\desktop\\desktop\\documentos\\futurocidade\\futurocidade\\seuprojeto.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{77F0F624-3356-44C2-96F2-9D176EF91F7F}|FuturoCidade\\FuturoCidade.csproj|solutionrelative:futurocidade\\seuprojeto.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Alerta.cs",
+              "DocumentMoniker": "C:\\Users\\DESKTOP\\Desktop\\documentos\\FuturoCidade\\FuturoCidade\\Models\\Alerta.cs",
+              "RelativeDocumentMoniker": "FuturoCidade\\Models\\Alerta.cs",
+              "ToolTip": "C:\\Users\\DESKTOP\\Desktop\\documentos\\FuturoCidade\\FuturoCidade\\Models\\Alerta.cs",
+              "RelativeToolTip": "FuturoCidade\\Models\\Alerta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T00:01:05.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "SeuProjeto.csproj",
               "DocumentMoniker": "C:\\Users\\DESKTOP\\Desktop\\documentos\\FuturoCidade\\FuturoCidade\\SeuProjeto.csproj",
               "RelativeDocumentMoniker": "FuturoCidade\\SeuProjeto.csproj",
@@ -35,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FuturoCidade",
               "DocumentMoniker": "C:\\Users\\DESKTOP\\Desktop\\documentos\\FuturoCidade\\FuturoCidade\\FuturoCidade.csproj",
               "RelativeDocumentMoniker": "FuturoCidade\\FuturoCidade.csproj",

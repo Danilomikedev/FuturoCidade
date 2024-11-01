@@ -375,3 +375,4 @@ C:\Users\DESKTOP\Desktop\documentos\FuturoCidade\FuturoCidade\bin\Debug\net8.0\x
 C:\Users\DESKTOP\Desktop\documentos\FuturoCidade\FuturoCidade\bin\Debug\net8.0\xunit.assert.dll
 C:\Users\DESKTOP\Desktop\documentos\FuturoCidade\FuturoCidade\bin\Debug\net8.0\xunit.core.dll
 C:\Users\DESKTOP\Desktop\documentos\FuturoCidade\FuturoCidade\bin\Debug\net8.0\xunit.execution.dotnet.dll
+C:\Users\DESKTOP\Desktop\documentos\FuturoCidade\FuturoCidade\obj\Debug\net8.0\FuturoCidade.sourcelink.json
